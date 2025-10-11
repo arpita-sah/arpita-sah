@@ -1,5 +1,5 @@
 # Hi 👋, I am Arpita Sah
-**A passionate AL/ML Engineer || AL/ML Robotic Engineer || Kafka Admin from India**
+**A passionate AL/ML Engineer || AL/ML Robotic Engineer** 
 
 Email Me 👉 ✉️ **arpitasah750@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
