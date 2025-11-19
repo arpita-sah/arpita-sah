@@ -10,7 +10,8 @@ Email Me 👉 ✉️ **arpitasah750@gmail.com** For Collaboration/Project or Any
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** arpitasah750@gmail.com
 - 😄 **Pronouns:** Arpita Sah
-- ⚡ **Fun fact:** I Love Snake <img width="420" height="180" alt="image" src="https://github.com/user-attachments/assets/42c3f2b4-b85f-41ef-8c5b-a2b9581d0755" />
+- ⚡ **Fun fact:** I Love Snake <img width="50px" height="50px" alt="image" src="https://github.com/user-attachments/assets/ae9c7bce-ca90-4f8b-9239-44dbc239e456" />
+
 .
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-sah-westcliff) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitasah750@gmail.com) 
